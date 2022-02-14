@@ -1,6 +1,6 @@
 # DioShopping
 
-Para executar o backend execute os comandos abaixo no terminal de sua IDE.
+Para executar o BackEnd execute os comandos abaixo no terminal de sua IDE.
 
 ```bash
 cd api-dioshopping
@@ -11,7 +11,7 @@ yarn dev
 
 ```
 
-Para executar o frontend execute os comandos abaixo no terminal de sua IDE.
+Para executar o FrontEnd execute os comandos abaixo no terminal de sua IDE.
 
 ```bash
 cd front-dioshopping
